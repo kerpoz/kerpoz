@@ -3,7 +3,7 @@
 ### 🚀 About Me
 I'm a passionate **Java Developer** with experience in backend development. I love working with technologies that connect different parts of a system and enhance performance, security, and scalability.
 
-Before diving deep into development, I worked as a **manual tester** for a short time and later as an **automation tester** for a long time, which gave me a strong understanding of software quality and testing strategies.
+Before diving deep into development, I gained valuable experience as a manual tester briefly, followed by a long tenure as an automation tester, which provided me with a solid understanding of software quality and testing strategies.
 
 ### 🔧 Technologies & Tools
 - **Programming:** Primarily Java

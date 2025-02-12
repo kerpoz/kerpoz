@@ -10,7 +10,7 @@ Before diving deep into development, I gained valuable experience as a manual te
 - **Backend:** Spring Framework (Spring Boot, Spring MVC, Spring Security)
 - **Databases:** SQL in general (e.g. PostgreSQL, MySQL, SQLite), basic knowledge of NoSQL Mongo DB
 - **Mobile:** Android (Java)
-- **Testing:** JUnit, Mockito, SoapUI, Postman, JMeter, **ISTQB Foundation Level certified**
+- **Testing:** JUnit, TestNG, Mockito, SoapUI, Postman, JMeter, **ISTQB Foundation Level certified**
 - **Other:** REST APIs, JWT, CI/CD, Jenkins, Git, BitBucket, Jira, Docker, Kibana, Elasticsearch, JSON, HTML, XML, Groovy, UML, ERD, Enterprise Architect, PuTTy, cURL
 
 ### 📌 Projects
